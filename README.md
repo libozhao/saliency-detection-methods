@@ -13,3 +13,4 @@ BFSS:http://ice.dlut.edu.cn/lu/publications.html
 RW:https://github.com/libozhao/test
 HDCT:https://github.com/jhkim89/Saliency-HDCT
 BMS：http://cs-people.bu.edu/jmzhang/BMS/BMS.html
+RR:https://github.com/yuanyc06/rcrr/
